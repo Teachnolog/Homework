@@ -1,4 +1,4 @@
-package homework;
+package generics.homework;
 
 public class Calculator<T extends Number> {
     public double sum(T a, T b) {

@@ -1,4 +1,4 @@
-package homework;
+package generics.homework;
 
 public class Pair<K, V> {
     private K key;

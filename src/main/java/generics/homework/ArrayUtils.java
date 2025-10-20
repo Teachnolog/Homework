@@ -1,4 +1,4 @@
-package homework;
+package generics.homework;
 
 public class ArrayUtils {
     public static <T> int findFirst(T[] array, T element) {
